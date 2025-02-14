@@ -1,0 +1,12 @@
+# requirements.txt
+langchain-core
+langchain-community
+langchain
+embedchain
+composio-langchain
+langflow
+sqlalchemy
+redis
+pandas
+langchain-groq
+gunicorn
